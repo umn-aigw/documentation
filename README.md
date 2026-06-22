@@ -12,7 +12,10 @@ To get started, contanct your local CESI requester to initiate an account. Durin
 
 Access can be granted to individuals, labs, units, or classes. When onboarding a class, be sure to provide any cross-listing information. 
 
-## Model Access ##
+## Accessing the AI Gateway ##
+After your account is created, you can access the AI gateway at <URL>. The AI gateway is only available to users on campus, or users connected to the VPN. If this creates a limitation for you, pelase let us know! 
+
+## Model Catalog ##
 
 ## AI Coding Assistants ##
 
