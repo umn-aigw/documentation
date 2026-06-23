@@ -1,0 +1,116 @@
+:root {
+  --umn-maroon: #7a0019;
+  --umn-gold: #ffcc33;
+  --umn-ink: #1f1f1f;
+  --umn-muted: #4a4a4a;
+  --umn-bg: #f8f8f7;
+  --umn-panel: #f2f2f1;
+  --umn-card: #ffffff;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--umn-maroon);
+  --md-primary-fg-color--light: #9b1730;
+  --md-primary-fg-color--dark: #5f0013;
+  --md-accent-fg-color: #b57100;
+  --md-typeset-a-color: #7a0019;
+  --md-default-bg-color: var(--umn-bg);
+}
+
+body,
+input,
+button,
+select,
+textarea {
+  font-family: "Public Sans", "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+.md-typeset {
+  font-size: 0.82rem;
+  color: var(--umn-ink);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-header__title,
+.md-tabs__link {
+  font-family: "Merriweather", "Source Serif 4", Georgia, serif;
+  letter-spacing: 0.01em;
+}
+
+.md-header {
+  background: linear-gradient(115deg, #5f0013 0%, #7a0019 55%, #9b1730 100%);
+}
+
+.md-main {
+  background: var(--umn-bg);
+}
+
+.md-main__inner {
+  background: linear-gradient(180deg, transparent 0%, rgba(0, 0, 0, 0.015) 100%);
+}
+
+.md-sidebar,
+.md-content {
+  background: transparent;
+}
+
+.md-typeset,
+.md-nav,
+.md-search__form {
+  color: var(--umn-ink);
+}
+
+.md-content,
+.md-sidebar {
+  animation: fade-slide-in 0.35s ease-out;
+}
+
+@keyframes fade-slide-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.4rem;
+  background: var(--umn-card);
+  border-color: rgba(122, 0, 25, 0.25);
+}
+
+.md-content__inner {
+  background: var(--umn-card);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+}
+
+@media (max-width: 76.2344em) {
+  .md-content__inner {
+    padding: 0.75rem 0.9rem;
+  }
+}
+
+.md-typeset code {
+  border-radius: 0.25rem;
+}
+
+.md-typeset .md-button {
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.md-search__form {
+  border-radius: 999px;
+}
+
+.md-footer-meta {
+  background-color: #4f0010;
+}

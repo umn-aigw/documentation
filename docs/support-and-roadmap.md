@@ -1,0 +1,33 @@
+# Support and Roadmap
+
+## Support Channels
+
+- Contact the LoonAI Gateway support team for account or billing issues.
+- Engage your local CESI requester for onboarding updates.
+
+## Report an Issue
+
+When reporting a problem, include:
+
+- Team name
+- Model used
+- Error code and message
+- Minimal reproducible request example if possible - a code snippet is great. The team may ask you to re-run your code with additional logging enabled. 
+
+## Current Scope
+
+Initial launch priorities focus on reliable model access, budget controls, and core API workflows.
+
+Advanced LiteLLM features (agents, skills, MCP integrations, and related orchestration features) are not yet available. We'd love to hear from you if you'd like to explore these features. 
+
+## Roadmap Themes
+
+- Improved onboarding automation
+- Expanded model catalog visibility
+- More advanced governance and policy controls
+
+## Getting Involved
+
+- Share documentation feedback
+- Propose feature priorities for your unit
+- Request collaborative pilots for advanced capabilities
