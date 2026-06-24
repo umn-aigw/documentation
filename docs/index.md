@@ -1,5 +1,5 @@
 <div class="loonai-hero">
-    <img src="/images/logo.png" alt="LoonAI logo" class="loonai-logo" />
+    <img src="/documentation/images/logo.png" alt="LoonAI logo" class="loonai-logo" />
     <h1>LoonAI Documentation</h1>
     <p>
         LoonAI is the umbrella for University of Minnesota-administered tools
@@ -34,5 +34,5 @@ The first project currently documented in depth is the LoonAI Gateway.
 
 <div class="gateway-callout">
     Explore the Gateway docs in the dedicated section:
-    <a href="/gateway/">LoonAI Gateway Documentation</a>
+    <a href="/documentation/gateway/">LoonAI Gateway Documentation</a>
 </div>

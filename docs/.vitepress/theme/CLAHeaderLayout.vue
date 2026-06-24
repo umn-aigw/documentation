@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import DefaultTheme from "vitepress/theme";
 import { AppHeader, NavbarItem } from "@umn-latis/cla-vue-template";
+import { withBase } from "vitepress";
 
 const ThemeLayout = DefaultTheme.Layout;
 </script>
@@ -9,15 +10,15 @@ const ThemeLayout = DefaultTheme.Layout;
   <div class="cla-template-wrapper vp-with-cla-header">
     <AppHeader menu-breakpoint="sm">
       <template #app-link>
-        <a class="cla-docs-title" href="/">LoonAI Docs</a>
+        <a class="cla-docs-title" :href="withBase('/')">LoonAI Docs</a>
       </template>
 
       <template #navbar-links>
         <NavbarItem>
-          <a href="/">Home</a>
+          <a :href="withBase('/')">Home</a>
         </NavbarItem>
         <NavbarItem>
-          <a href="/gateway/">LoonAI Gateway</a>
+          <a :href="withBase('/gateway/')">LoonAI Gateway</a>
         </NavbarItem>
       </template>
 
