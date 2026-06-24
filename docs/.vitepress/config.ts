@@ -6,7 +6,7 @@ export default defineConfig({
   lang: "en-US",
   title: "LoonAI Documentation",
   description: "Official docs for LoonAI tools at the University of Minnesota.",
-  base: "/documentation/",
+  base: "/",
   cleanUrls: true,
   vite: {
     resolve: {
