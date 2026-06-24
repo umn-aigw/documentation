@@ -25,7 +25,7 @@ Start with a conservative budget cap and increase it after observing real usage.
 
 ## Network Access
 
-The gateway is available on campus or when connected through UMN VPN.
+The gateway is available on campus or when connected through UMN VPN. Visit [gateway.loonai.umn.edu](https://gateway.loonai.umn.edu) to get started
 
 If this requirement limits your workflow, contact the service team to discuss options. Feedback on this policy is still being collected.
 

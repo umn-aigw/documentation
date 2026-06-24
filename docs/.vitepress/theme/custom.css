@@ -8,13 +8,13 @@
   --vp-c-brand-2: #900020;
   --vp-c-brand-3: #5f0013;
   --vp-c-brand-soft: rgba(122, 0, 25, 0.12);
-  --vp-nav-bg-color:#f0efee
+  --vp-nav-bg-color: #f0efee;
 }
 
-/* .vp-with-cla-header .VPNav,
+.vp-with-cla-header .VPNav,
 .vp-with-cla-header .VPLocalNav {
   display: none !important;
-} */
+}
 
 .vp-with-cla-header .VPDoc .aside {
   display: none !important;
@@ -43,7 +43,7 @@
   .vp-with-cla-header .menu-button-container {
     display: none !important;
   }
-} */
+}
 
 .loonai-hero {
   position: relative;

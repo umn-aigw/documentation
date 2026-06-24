@@ -20,7 +20,7 @@ export default defineConfig({
   },
   lastUpdated: true,
   sitemap: {
-    hostname: "https://umn-aigw.github.io/documentation"
+    hostname: "https://loonai.umn.edu"
   },
   themeConfig: {
     aside: false,

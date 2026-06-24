@@ -15,23 +15,6 @@ import { withBase } from 'vitepress'
     </p>
 </div>
 
-<!-- ## LoonAI Scope
-
-<div class="loonai-grid">
-    <section class="loonai-card">
-        <h2>Research</h2>
-        <p>Support for model experimentation, reproducible workflows, and managed service access.</p>
-    </section>
-    <section class="loonai-card">
-        <h2>Teaching and Learning</h2>
-        <p>Guidance and platforms that help instructors and learners adopt AI safely and effectively.</p>
-    </section>
-    <section class="loonai-card">
-        <h2>Administration</h2>
-        <p>Institutional tooling and governance patterns for secure and sustainable AI operations.</p>
-    </section>
-</div> -->
-
 ## Current Documentation
 
 The first project currently documented in depth is the LoonAI Gateway.
