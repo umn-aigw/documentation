@@ -1,0 +1,20 @@
+{
+  "name": "loonai-documentation",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LoonAI and LoonAI Gateway documentation site",
+  "scripts": {
+    "dev": "vitepress dev docs --host 0.0.0.0 --port 5173",
+    "build": "vitepress build docs",
+    "check": "vitepress build docs --strict",
+    "preview": "vitepress preview docs --host 0.0.0.0 --port 4173"
+  },
+  "devDependencies": {
+    "@umn-latis/cla-vue-template": "^3.1.1",
+    "@umn-latis/vitepress-theme-umn": "^0.2.0",
+    "typescript": "^5.9.2",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.18"
+  }
+}

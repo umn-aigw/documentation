@@ -1,0 +1,162 @@
+:root {
+  --vp-c-bg: #f8f7f4;
+  --vp-c-bg-soft: #f1eee8;
+  --vp-c-bg-alt: #ffffff;
+  --vp-c-text-1: #1b1b1b;
+  --vp-c-text-2: #4b4b4b;
+  --vp-c-brand-1: #7a0019;
+  --vp-c-brand-2: #900020;
+  --vp-c-brand-3: #5f0013;
+  --vp-c-brand-soft: rgba(122, 0, 25, 0.12);
+  --vp-nav-bg-color:#f0efee
+}
+
+/* .vp-with-cla-header .VPNav,
+.vp-with-cla-header .VPLocalNav {
+  display: none !important;
+} */
+
+.vp-with-cla-header .VPDoc .aside {
+  display: none !important;
+}
+
+.vp-with-cla-header .VPDoc.has-aside .content-container {
+  max-width: none;
+}
+
+.vp-with-cla-header .college-header a[href="https://cla.umn.edu/"],
+.vp-with-cla-header .college-header a[href="https://cla.umn.edu"] {
+  display: none !important;
+}
+
+.cla-docs-title {
+  color: inherit;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.cla-docs-title:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 640px) {
+  .vp-with-cla-header .menu-button-container {
+    display: none !important;
+  }
+} */
+
+.loonai-hero {
+  position: relative;
+  overflow: hidden;
+  margin: 1.2rem 0 1.8rem;
+  border-radius: 18px;
+  padding: 2.2rem 1.4rem;
+  color: #231f20;
+  background:
+    radial-gradient(1000px 360px at -10% -35%, rgba(255, 210, 110, 0.26), transparent 52%),
+    radial-gradient(860px 320px at 115% 10%, rgba(122, 0, 25, 0.11), transparent 56%),
+    linear-gradient(145deg, #fffef8 0%, #f7f1e5 48%, #f4ebdd 100%);
+  border: 1px solid rgba(122, 0, 25, 0.1);
+  box-shadow: 0 16px 42px rgba(89, 20, 0, 0.08);
+}
+
+.loonai-hero h1 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  font-size: clamp(1.8rem, 4.2vw, 2.8rem);
+  line-height: 1.1;
+}
+
+.loonai-hero p {
+  max-width: 66ch;
+  font-size: 1.06rem;
+}
+
+.loonai-logo {
+  width: min(180px, 35vw);
+  margin-bottom: 0.9rem;
+}
+
+.loonai-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin: 1.2rem 0 0.6rem;
+}
+
+.loonai-card {
+  border-radius: 14px;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.06);
+}
+
+.loonai-card h2 {
+  margin-top: 0;
+  font-size: 1.08rem;
+}
+
+.loonai-card p {
+  margin-bottom: 0;
+}
+
+.gateway-callout {
+  margin-top: 1rem;
+  border-left: 4px solid #7a0019;
+  padding: 0.85rem 1rem;
+  border-radius: 8px;
+  background: rgba(122, 0, 25, 0.06);
+}
+
+.gateway-hero {
+  margin: 1.1rem 0 1.6rem;
+  padding: 1.35rem 1.2rem 1.15rem;
+  border-radius: 16px;
+  background:
+    radial-gradient(650px 220px at 8% 0%, rgba(255, 204, 51, 0.22), transparent 60%),
+    linear-gradient(165deg, #fff7e8 0%, #fff1f4 100%);
+  border: 1px solid rgba(122, 0, 25, 0.16);
+  box-shadow: 0 10px 28px rgba(70, 0, 15, 0.08);
+}
+
+.gateway-hero h1 {
+  margin: 0;
+  font-size: clamp(1.6rem, 3.8vw, 2.35rem);
+  line-height: 1.12;
+}
+
+.gateway-hero p {
+  margin: 0.65rem 0 0;
+  max-width: 74ch;
+}
+
+.gateway-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.62rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #6b0016;
+  background: rgba(122, 0, 25, 0.11);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .VPDoc {
+    animation: vp-fade-up 0.3s ease-out;
+  }
+}
+
+@keyframes vp-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

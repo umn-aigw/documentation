@@ -9,7 +9,7 @@ Select models based on:
 - Quality requirements
 - Latency tolerance
 - Cost sensitivity
-- Feature support (vision, tool use, long context, etc.)
+- Feature support (vision, tool use, long context, and more)
 
 Not all models support the same capabilities.
 
@@ -20,13 +20,15 @@ By default, users generally retain access to:
 - Current model versions
 - One previous version (when available)
 
-If you need older legacy versions for compatibility, submit a request to the support team. Legacy availability is sometimes limited by the model providers - for example, if a vulnerability or other issue is discovered in a legacy model, they may choose to withdraw that model from availability. Keep this in mind when designing long running studies. 
+If you need older legacy versions for compatibility, submit a request to the support team. Legacy availability is sometimes limited by providers. For example, if a vulnerability is discovered in a legacy model, a provider may withdraw that model.
+
+Keep this in mind when designing long-running studies.
 
 ## New Model Availability
 
-The target turnaround for new model onboarding is typically 24-48 hours after provider release.
+The target turnaround for onboarding newly released models is typically 24-48 hours after provider release.
 
-Some releases may take longer due to validation, policy review, or provider capacity.
+Some releases may take longer because of validation, policy review, or provider capacity constraints.
 
 ## Managing Spend
 

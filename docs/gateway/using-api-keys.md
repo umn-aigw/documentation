@@ -15,8 +15,8 @@ Each key is tied to a team for usage accounting and chargeback. If you belong to
 5. Leave advanced fields at defaults unless you need custom behavior.
 6. Create the key and copy it immediately.
 
-!!! warning
-    You will not be able to view the full key value again after creation.
+> [!WARNING]
+> You will not be able to view the full key value again after creation.
 
 ## Secure Key Handling
 

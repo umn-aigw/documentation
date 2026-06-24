@@ -14,7 +14,7 @@ Common examples:
 
 ## GitHub Copilot at UMN
 
-For many UMN users, [GitHub Copilot](https://github-docs.devex.oit.umn.edu/github-copilot/) is a preferred coding assistant due to pooled licensing and broad model access.
+For many UMN users, [GitHub Copilot](https://github-docs.devex.oit.umn.edu/github-copilot/) is a preferred coding assistant because of pooled licensing and broad model access.
 
 Gateway usage remains a strong option when you need direct API control, custom integration flows, or specialized provider/model behavior.
 
@@ -23,4 +23,3 @@ Gateway usage remains a strong option when you need direct API control, custom i
 LiteLLM publishes integration guides for AI tools and frameworks:
 
 - [LiteLLM AI tool integration docs](https://docs.litellm.ai/docs/ai_tools)
-
