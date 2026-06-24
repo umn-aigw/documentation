@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 
-const REPO_URL = "https://github.com/umn-latis/aigateway-documentation";
+const REPO_URL = "https://github.com/umn-aigw/documentation";
 
 export default defineConfig({
   lang: "en-US",
@@ -19,7 +19,7 @@ export default defineConfig({
   },
   lastUpdated: true,
   sitemap: {
-    hostname: "https://umn-latis.github.io/aigateway-documentation"
+    hostname: "https://umn-aigw.github.io/documentation"
   },
   themeConfig: {
     aside: false,
