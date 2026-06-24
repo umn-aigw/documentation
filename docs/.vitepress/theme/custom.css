@@ -11,6 +11,21 @@
   --vp-nav-bg-color: #f0efee;
 }
 
+:root.dark,
+html.dark,
+[data-theme="dark"] {
+  --vp-c-bg: #0c0f14;
+  --vp-c-bg-soft: #141a22;
+  --vp-c-bg-alt: #1a2230;
+  --vp-c-text-1: #edf2f8;
+  --vp-c-text-2: #b6c2d3;
+  --vp-c-brand-1: #ff8ea3;
+  --vp-c-brand-2: #ffadbc;
+  --vp-c-brand-3: #ff738f;
+  --vp-c-brand-soft: rgba(255, 142, 163, 0.16);
+  --vp-nav-bg-color: #1a1f29;
+}
+
 .vp-with-cla-header .VPNav,
 .vp-with-cla-header .VPLocalNav {
   display: none !important;
@@ -142,6 +157,49 @@
   text-transform: uppercase;
   color: #6b0016;
   background: rgba(122, 0, 25, 0.11);
+}
+
+.dark .loonai-hero {
+  color: #f3f7ff;
+  background:
+    radial-gradient(980px 380px at -8% -28%, rgba(255, 191, 85, 0.2), transparent 52%),
+    radial-gradient(780px 300px at 112% 12%, rgba(255, 118, 151, 0.17), transparent 58%),
+    linear-gradient(150deg, #1d2430 0%, #16202b 48%, #111922 100%);
+  border-color: rgba(255, 171, 191, 0.26);
+  box-shadow: 0 16px 42px rgba(0, 0, 0, 0.35);
+}
+
+.dark .loonai-card {
+  color: #e8eef8;
+  background: linear-gradient(180deg, #1a2230 0%, #151d29 100%);
+  border-color: rgba(167, 184, 210, 0.24);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.34);
+}
+
+.dark .gateway-callout {
+  color: #eef3fb;
+  border-left-color: #ff8ea3;
+  background: rgba(255, 142, 163, 0.12);
+}
+
+.dark .gateway-hero {
+  color: #f2f7ff;
+  background:
+    radial-gradient(620px 240px at 8% 0%, rgba(255, 206, 96, 0.2), transparent 62%),
+    linear-gradient(165deg, #1e2633 0%, #151d28 100%);
+  border-color: rgba(255, 170, 191, 0.28);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+.dark .gateway-badge {
+  color: #ffd4de;
+  background: rgba(255, 150, 174, 0.2);
+}
+
+.dark .loonai-hero a,
+.dark .gateway-hero a,
+.dark .gateway-callout a {
+  color: #ffd4de;
 }
 
 @media (prefers-reduced-motion: no-preference) {
