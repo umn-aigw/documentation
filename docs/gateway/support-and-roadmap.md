@@ -2,7 +2,7 @@
 
 ## Support Channels
 
-- Contact the LoonAI Gateway support team for account or billing issues.
+- Contact the [LoonAI Gateway support team](mailto:aigateway@umn.edu) for account or billing issues.
 - Engage your local CESI requester for onboarding updates.
 
 ## Report an Issue
@@ -27,6 +27,8 @@ Advanced LiteLLM features (agents, skills, MCP integrations, and related orchest
 - Improved onboarding automation
 - Expanded model catalog visibility
 - More advanced governance and policy controls
+- Explore agent/skill/MCP management
+- Better understand performance and usage patterns
 
 ## Getting Involved
 

@@ -42,7 +42,8 @@ export default defineConfig({
             { text: "Models, Pricing, and Limits", link: "/gateway/models-and-costs" },
             { text: "Coding Tools Integration", link: "/gateway/coding-tools" },
             { text: "Support and Roadmap", link: "/gateway/support-and-roadmap" },
-            { text: "Privacy and Data Collection", link: "/gateway/privacy" }
+            { text: "Privacy and Data Collection", link: "/gateway/privacy" },
+            { text: "Change Log", link: "/gateway/changelog" }
           ]
         }
       ]
