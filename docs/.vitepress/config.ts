@@ -41,7 +41,8 @@ export default defineConfig({
             { text: "API Keys and Access", link: "/gateway/using-api-keys" },
             { text: "Models, Pricing, and Limits", link: "/gateway/models-and-costs" },
             { text: "Coding Tools Integration", link: "/gateway/coding-tools" },
-            { text: "Support and Roadmap", link: "/gateway/support-and-roadmap" }
+            { text: "Support and Roadmap", link: "/gateway/support-and-roadmap" },
+            { text: "Privacy and Data Collection", link: "/gateway/privacy" }
           ]
         }
       ]

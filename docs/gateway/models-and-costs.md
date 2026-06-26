@@ -45,3 +45,27 @@ Use layered controls:
 2. Limit max output tokens for automated workflows.
 3. Cache repeatable prompts where possible.
 4. Move high-value workloads to stronger models only when justified.
+
+## Current Model List
+
+Below you'll find a table of our currently available models. We've launched with a limited set of models, because we're looking for feedback from the user community about what's actually useful. We can add any first party models available via AWS Bedrock, Azure Foundry or Google Cloud Platform VertexAI. If you have a request for a model, please contact [aigateway@umn.edu](mailto:aigateway@umn.edu).
+
+| Model Name | Capabilities | Approved Data Classification |
+| :--- | :--- | :--- |
+| azure_ai/kimi-k2.6 | Chat | Public, Private-Restricted |
+| deepseek-v4-flash | Chat, Function Calling | Public, Private-Restricted |
+| deepseek-v4-pro | Chat, Function Calling | Public, Private-Restricted |
+| gemini-3.1-flash-lite | Chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.1-pro-preview | Chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.5-flash | Chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.3-codex | Responses, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.4-mini | Chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.5 | Chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| Llama-4-Maverick-17B-128E-Instruct-FP8 | Chat | Public, Private-Restricted |
+| Llama-4-Scout-17B-16E-Instruct | Chat | Public, Private-Restricted |
+| zai.glm-4.7 | Chat, Reasoning, Function Calling | Public, Private-Restricted |
+| zai.glm-4.7-flash | Chat, Reasoning, Function Calling | Public, Private-Restricted |
+| zai.glm-5 | Chat, Reasoning, Function Calling | Public, Private-Restricted |
+
+!!! info "A note on Anthropic models"
+	Adding support for Anthropic models is the number one priority for the LoonAI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
