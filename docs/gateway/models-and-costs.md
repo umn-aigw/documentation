@@ -67,5 +67,6 @@ Below you'll find a table of our currently available models. We've launched with
 | zai.glm-4.7-flash | Chat, Reasoning, Function Calling | Public, Private-Restricted |
 | zai.glm-5 | Chat, Reasoning, Function Calling | Public, Private-Restricted |
 
-!!! info "A note on Anthropic models"
-	Adding support for Anthropic models is the number one priority for the LoonAI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
+::: info A note on Anthropic models
+Adding support for Anthropic models is the number one priority for the LoonAI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
+:::
