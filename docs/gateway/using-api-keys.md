@@ -12,7 +12,7 @@ Each key is tied to a team for usage accounting and chargeback. If you belong to
 2. Select **Create a new key**.
 3. Choose the correct team.
 4. Provide a descriptive key name.
-5. Leave advanced fields at defaults unless you need custom behavior.
+5. Leave advanced fields at defaults unless you need custom behavior. See the budget control section for more information.
 6. Create the key and copy it immediately.
 
 > [!WARNING]
@@ -50,6 +50,22 @@ print(response.choices[0].message.content)
 - `api_key`: your API key
 - `base_url`: gateway endpoint
 - `model`: selected model in the catalog
+
+## Budget Control
+
+When creating a key, you can usually set limits that protect your project from accidental overuse:
+
+- `RPM (requests per minute)`: caps how many calls the key can make each minute.
+- `TPM (tokens per minute)`: caps token throughput per minute.
+- `Max parallel requests`: limits concurrent calls to prevent request spikes.
+- `Model restrictions` (if enabled): allow only specific models for this key.
+- `Key budget cap` and/or reset window (if shown): set a lower self-imposed spending limit for this key.
+
+Use these controls to start conservative and then adjust upward based on real usage.
+
+> [!IMPORTANT]
+> You can tighten limits on your own key, but you cannot increase your team or account budget from the key form. Budget increases are an admin-controlled setting.
+
 
 ## Common Troubleshooting
 
