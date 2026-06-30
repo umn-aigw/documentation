@@ -52,20 +52,25 @@ Below you'll find a table of our currently available models. We've launched with
 
 | Model Name | Capabilities | Approved Data Classification |
 | :--- | :--- | :--- |
-| azure_ai/kimi-k2.6 | Chat | Public, Private-Restricted |
-| deepseek-v4-flash | Chat, Function Calling | Public, Private-Restricted |
-| deepseek-v4-pro | Chat, Function Calling | Public, Private-Restricted |
-| gemini-3.1-flash-lite | Chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
-| gemini-3.1-pro-preview | Chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
-| gemini-3.5-flash | Chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.3-codex | Responses, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.4-mini | Chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.5 | Chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| Llama-4-Maverick-17B-128E-Instruct-FP8 | Chat | Public, Private-Restricted |
-| Llama-4-Scout-17B-16E-Instruct | Chat | Public, Private-Restricted |
-| zai.glm-4.7 | Chat, Reasoning, Function Calling | Public, Private-Restricted |
-| zai.glm-4.7-flash | Chat, Reasoning, Function Calling | Public, Private-Restricted |
-| zai.glm-5 | Chat, Reasoning, Function Calling | Public, Private-Restricted |
+| azure_ai/kimi-k2.6 | Vision, Reasoning, Function Calling | Public, Private-Restricted |
+| azure_ai/mistral-ocr-4-0 | OCR | Public, Private-Restricted |
+| deepseek-v4-flash | Reasoning, Function Calling | Public, Private-Restricted |
+| deepseek-v4-pro | Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.1-flash-lite | Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.1-pro-preview | Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.5-flash | Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.3-codex | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.4-mini | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.4-nano | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.4-pro | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.5 | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-image-2 | Vision, Image Generation | Public, Private-Restricted |
+| Llama-4-Maverick-17B-128E-Instruct-FP8 | Vision, Function Calling | Public, Private-Restricted |
+| Llama-4-Scout-17B-16E-Instruct | Vision, Function Calling | Public, Private-Restricted |
+| mistral-medium-3-5 | General Text | Public, Private-Restricted |
+| zai.glm-4.7 | Reasoning, Function Calling | Public, Private-Restricted |
+| zai.glm-4.7-flash | Reasoning, Function Calling | Public, Private-Restricted |
+| zai.glm-5 | Reasoning, Function Calling | Public, Private-Restricted |
 
 ::: info A note on Anthropic models
 Adding support for Anthropic models is the number one priority for the LoonAI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
