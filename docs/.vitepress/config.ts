@@ -43,6 +43,7 @@ export default defineConfig({
             { text: "Coding Tools Integration", link: "/gateway/coding-tools" },
             { text: "Support and Roadmap", link: "/gateway/support-and-roadmap" },
             { text: "Privacy and Data Collection", link: "/gateway/privacy" },
+            { text: "Course Access", link: "/gateway/courses" },
             { text: "Change Log", link: "/gateway/changelog" }
           ]
         }

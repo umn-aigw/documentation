@@ -23,6 +23,11 @@ Ongoing management of teams is handled through the University's Grouper platform
 
 Start with a conservative budget cap and increase it after observing real usage.
 
+## Team Management
+
+By default, you'll be added as a "user" within your team. You'll be able to create keys, but not make changes to the overall team budget settings, model settings, etc. If you'd like to manage the team more granularly, [contact us](mailto:aigateway@umn.edu) and we can give you that permission.
+
+
 ## Network Access
 
 The gateway is available on campus or when connected through UMN VPN. Visit [gateway.loonai.umn.edu/ui](https://gateway.loonai.umn.edu/ui) to get started
