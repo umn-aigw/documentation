@@ -26,7 +26,10 @@ This design gives teams one integration pattern while preserving flexibility to 
 - [API Keys and Access](./using-api-keys.md): key creation and usage patterns
 - [Models, Pricing, and Limits](./models-and-costs.md): selecting models and controlling spend
 - [Coding Tools Integration](./coding-tools.md): setup in coding assistants and SDKs
+- [Courses](./courses.md): course-based access for classes and students
+- [Privacy and Data Collection](./privacy.md): data classifications and retention practices
 - [Support and Roadmap](./support-and-roadmap.md): support channels and near-term plans
+- [Change Log](./changelog.md): notable platform and model updates
 
 > [!WARNING]
 > Keep API keys private. Do not commit keys to Git repositories or share them in chats, tickets, or screenshots.

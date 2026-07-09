@@ -52,26 +52,35 @@ Below you'll find a table of our currently available models. We've launched with
 
 | Model Name | Capabilities | Approved Data Classification |
 | :--- | :--- | :--- |
-| azure_ai/kimi-k2.6 | Vision, Reasoning, Function Calling | Public, Private-Restricted |
-| azure_ai/mistral-ocr-4-0 | OCR | Public, Private-Restricted |
-| deepseek-v4-flash | Reasoning, Function Calling | Public, Private-Restricted |
-| deepseek-v4-pro | Reasoning, Function Calling | Public, Private-Restricted |
-| gemini-3.1-flash-lite | Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
-| gemini-3.1-pro-preview | Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
-| gemini-3.5-flash | Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.3-codex | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.4-mini | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.4-nano | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.4-pro | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.5 | Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-image-2 | Vision, Image Generation | Public, Private-Restricted |
-| Llama-4-Maverick-17B-128E-Instruct-FP8 | Vision, Function Calling | Public, Private-Restricted |
-| Llama-4-Scout-17B-16E-Instruct | Vision, Function Calling | Public, Private-Restricted |
-| mistral-medium-3-5 | General Text | Public, Private-Restricted |
-| zai.glm-4.7 | Reasoning, Function Calling | Public, Private-Restricted |
-| zai.glm-4.7-flash | Reasoning, Function Calling | Public, Private-Restricted |
-| zai.glm-5 | Reasoning, Function Calling | Public, Private-Restricted |
+| azure-tts | audio_speech | Public, Private-Restricted |
+| deepseek-v4-flash | chat, Function Calling | Public, Private-Restricted |
+| deepseek-v4-pro | chat, Function Calling | Public, Private-Restricted |
+| gemini-3-pro-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted |
+| gemini-3.1-flash-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted |
+| gemini-3.1-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.5-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-5.4 | chat | Public, Private-Restricted |
+| gpt-5.4-mini | chat | Public, Private-Restricted |
+| gpt-5.4-nano | chat | Public, Private-Restricted |
+| gpt-5.4-pro | chat | Public, Private-Restricted |
+| gpt-5.5 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
+| gpt-image-2 | image_generation | Public, Private-Restricted |
+| kimi-k2.6 | chat, Vision, Reasoning, Function Calling | Public, Private-Restricted |
+| llama4-maverick-17b-instruct-v1:0 | chat, Function Calling | Public, Private-Restricted |
+| llama4-scout-17b-instruct-v1:0 | chat, Function Calling | Public, Private-Restricted |
+| mantle-gpt-5.4 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted |
+| mantle-gpt-5.5 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted |
+| mistral-medium-3-5 | chat | Public, Private-Restricted |
+| mistral-ocr-4-0 | ocr | Public, Private-Restricted |
+| zai.glm-4.7 | chat, Reasoning, Function Calling | Public, Private-Restricted |
+| zai.glm-4.7-flash | chat, Reasoning, Function Calling | Public, Private-Restricted |
+| zai.glm-5 | chat, Reasoning, Function Calling | Public, Private-Restricted |
 
 ::: info A note on Anthropic models
 Adding support for Anthropic models is the number one priority for the LoonAI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
+:::
+
+::: info A note on Bedrock Mantle models
+The OpenAI models hosted via AWS Bedrock Mantle currently only support the Responses API. The LiteLLM project is actively working to add support for the Completions API, and we expect that to be available in the near future.
 :::
