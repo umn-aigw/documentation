@@ -52,8 +52,6 @@ Below you'll find a table of our currently available models. We've launched with
 
 | Model Name | Capabilities | Approved Data Classification |
 | :--- | :--- | :--- |
-| agent-paulr | chat | Public, Private-Restricted |
-| azure-tts | audio_speech | Public, Private-Restricted |
 | deepseek-v4-flash | chat, Function Calling | Public, Private-Restricted |
 | deepseek-v4-pro | chat, Function Calling | Public, Private-Restricted |
 | gemini-3-pro-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted |
@@ -61,10 +59,8 @@ Below you'll find a table of our currently available models. We've launched with
 | gemini-3.1-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
 | gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
 | gemini-3.5-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
-| gpt-5.4 | chat | Public, Private-Restricted |
 | gpt-5.4-mini | chat | Public, Private-Restricted |
 | gpt-5.4-nano | chat | Public, Private-Restricted |
-| gpt-5.4-pro | chat | Public, Private-Restricted |
 | gpt-5.5 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
 | gpt-5.6-luna | chat | Public, Private-Restricted |
 | gpt-5.6-sol | chat | Public, Private-Restricted |
@@ -75,7 +71,6 @@ Below you'll find a table of our currently available models. We've launched with
 | llama4-scout-17b-instruct-v1:0 | chat, Function Calling | Public, Private-Restricted |
 | mantle-gpt-5.4 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted |
 | mantle-gpt-5.5 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted |
-| mantle-gpt-5.6-sol | responses | Public, Private-Restricted |
 | mistral-medium-3-5 | chat | Public, Private-Restricted |
 | mistral-ocr-4-0 | ocr | Public, Private-Restricted |
 | zai.glm-4.7 | chat, Reasoning, Function Calling | Public, Private-Restricted |
