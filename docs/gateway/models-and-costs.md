@@ -59,6 +59,8 @@ Below you'll find a table of our currently available models. We've launched with
 | gemini-3.1-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
 | gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
 | gemini-3.5-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
+| gemini-3.6-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted |
 | gpt-5.4 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted |
 | gpt-5.4-mini | chat | Public, Private-Restricted |
 | gpt-5.4-nano | chat | Public, Private-Restricted |
