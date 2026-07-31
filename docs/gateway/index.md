@@ -1,5 +1,4 @@
 <div class="gateway-hero">
-	<span class="gateway-badge">AI Project</span>
 	<h1>AI Gateway</h1>
 	<p>
 		Managed access to leading AI models for University of Minnesota researchers, faculty, staff, and students through a unified API.
