@@ -85,7 +85,7 @@ Below you'll find a table of our currently available models. We've launched with
 | zai.glm-5 | chat, Reasoning, Function Calling | Public, Private-Restricted | $1.00 | $3.20 |
 
 ::: info A note on Anthropic models
-Adding support for Anthropic models is the number one priority for the LoonAI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
+Adding support for Anthropic models is the number one priority for the AI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
 :::
 
 ::: info A note on Bedrock Mantle models

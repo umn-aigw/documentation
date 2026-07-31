@@ -4,8 +4,8 @@ const REPO_URL = "https://github.com/umn-aigw/documentation";
 
 export default defineConfig({
   lang: "en-US",
-  title: "LoonAI Documentation",
-  description: "Official docs for LoonAI tools at the University of Minnesota.",
+  title: "University of Minnesota AI Gateway Documentation",
+  description: "Official docs for the AI Gateway tools at the University of Minnesota.",
   base: "/",
   cleanUrls: true,
   vite: {
@@ -20,15 +20,15 @@ export default defineConfig({
   },
   lastUpdated: true,
   sitemap: {
-    hostname: "https://loonai.umn.edu"
+    hostname: "https://aigateway.umn.edu"
   },
   themeConfig: {
     aside: false,
     logo: "/images/logo.png",
-    siteTitle: "LoonAI Docs",
+    siteTitle: "AI Gateway Docs",
     nav: [
       { text: "Home", link: "/" },
-      { text: "LoonAI Gateway", link: "/gateway/" },
+      { text: "AI Gateway", link: "/gateway/" },
       { text: "AI Hub", link: "https://ai.umn.edu" }
     ],
     sidebar: {
@@ -55,7 +55,7 @@ export default defineConfig({
       text: "Edit this page on GitHub"
     },
     footer: {
-      message: "LoonAI supports research, teaching, learning, and administration.",
+      message: "The University of Minnesota's AI Gateway supports research, teaching, learning, and administration.",
       copyright: "Copyright 2026 Regents of the University of Minnesota"
     },
     search: {

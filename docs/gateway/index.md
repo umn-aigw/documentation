@@ -1,6 +1,6 @@
 <div class="gateway-hero">
-	<span class="gateway-badge">LoonAI Project</span>
-	<h1>LoonAI Gateway</h1>
+	<span class="gateway-badge">AI Project</span>
+	<h1>AI Gateway</h1>
 	<p>
 		Managed access to leading AI models for University of Minnesota researchers, faculty, staff, and students through a unified API.
 	</p>
@@ -16,7 +16,7 @@
 
 ## Platform Overview
 
-LoonAI Gateway is powered by [LiteLLM](https://www.litellm.ai), which routes requests to multiple model providers behind a consistent API layer.
+The University's AI Gateway is powered by [LiteLLM](https://www.litellm.ai), which routes requests to multiple model providers behind a consistent API layer.
 
 This design gives teams one integration pattern while preserving flexibility to choose models based on price, speed, and capabilities.
 
