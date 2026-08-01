@@ -2,7 +2,7 @@
 
 ## Support Channels
 
-- Contact the [LoonAI Gateway support team](mailto:aigateway@umn.edu) for account or billing issues.
+- Contact the [AI Gateway support team](mailto:aigateway@umn.edu) for account or billing issues.
 - Engage your local CESI requester for onboarding updates.
 
 ## Report an Issue
@@ -30,9 +30,9 @@ Advanced LiteLLM features (agents, skills, MCP integrations, and related orchest
 - Explore agent/skill/MCP management
 - Better understand performance and usage patterns
 
-### LoonAI Gateway 1.0 notes
+### AI Gateway 1.0 notes
 
-As LoonAI Gateway launches to the University of Minnesota community, there are a lot of "unknowns" we're looking to resolve. We want to understand what real world needs are like around performance, model availability, rate limits, budget controls, and other operational concerns. We also want to understand what advanced capabilities are most useful to the community, and how we can best support those needs - agents, mcps, skills, etc. 
+As the AI Gateway launches to the University of Minnesota community, there are a lot of "unknowns" we're looking to resolve. We want to understand what real world needs are like around performance, model availability, rate limits, budget controls, and other operational concerns. We also want to understand what advanced capabilities are most useful to the community, and how we can best support those needs - agents, mcps, skills, etc. 
 
 Our goal for 1.0 was to provide a stable, cost-managed way to access a breadth of models, and we think we've provided that. Now we're going to be focused on evolving this platform to meet a broader set of needs. 
 

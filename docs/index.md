@@ -2,11 +2,11 @@
 import { withBase } from 'vitepress'
 </script>
 
-<div class="loonai-hero">
-    <img :src="withBase('/images/logo.png')" alt="LoonAI logo" class="loonai-logo" />
-    <h1>LoonAI Documentation</h1>
+<div class="aigateway-hero">
+    <img :src="withBase('/images/logo.png')" alt="AI Gateway logo" class="aigateway-logo" />
+    <h1>AI Gateway Documentation</h1>
     <p>
-        LoonAI is the umbrella for University of Minnesota-administered tools
+        The AI gateway is the first project deployed under the umbrella for University of Minnesota-administered tools
         powering AI for research, teaching, learning, and administration.
     </p>
     <p>
@@ -17,9 +17,9 @@ import { withBase } from 'vitepress'
 
 ## Current Documentation
 
-The first project currently documented in depth is the LoonAI Gateway.
+The first project currently documented in depth is the AI Gateway.
 
 <div class="gateway-callout">
     Explore the Gateway docs in the dedicated section:
-    <a :href="withBase('/gateway/')">LoonAI Gateway Documentation</a>
+    <a :href="withBase('/gateway/')">AI Gateway Documentation</a>
 </div>

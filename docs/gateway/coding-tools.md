@@ -1,6 +1,6 @@
 # Coding Tools Integration
 
-You can connect LoonAI Gateway keys to OpenAI-compatible SDKs and coding assistants.
+You can connect to AI Gateway keys to OpenAI-compatible SDKs and coding assistants.
 
 ## Compatible Patterns
 

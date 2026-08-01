@@ -10,7 +10,7 @@ const ThemeLayout = DefaultTheme.Layout;
   <div class="cla-template-wrapper vp-with-cla-header">
     <AppHeader menu-breakpoint="sm">
       <template #app-link>
-        <a class="cla-docs-title" :href="withBase('/')">LoonAI Docs</a>
+        <a class="cla-docs-title" :href="withBase('/')">AI Gateway Docs</a>
       </template>
 
       <template #navbar-links>
@@ -18,7 +18,7 @@ const ThemeLayout = DefaultTheme.Layout;
           <a :href="withBase('/')">Home</a>
         </NavbarItem>
         <NavbarItem>
-          <a :href="withBase('/gateway/')">LoonAI Gateway</a>
+          <a :href="withBase('/gateway/')">AI Gateway</a>
         </NavbarItem>
       </template>
 

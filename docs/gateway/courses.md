@@ -1,6 +1,6 @@
-# Courses in LoonAI Gateway
+# Courses in the AI Gateway
 
-When requesting access to LoonAI Gateway, you have the option of granting access based on course enrollment. This uses realtime data from the course registration system to grant access. 
+When requesting access to the AI Gateway, you have the option of granting access based on course enrollment. This uses realtime data from the course registration system to grant access. 
 
 We're still learning about best practices for course-based access. Our initial goal is to provide fairly broad access for students, so that instructors aren't required to manage individual keys. 
 

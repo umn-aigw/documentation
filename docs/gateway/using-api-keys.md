@@ -1,6 +1,6 @@
 # API Keys and Access
 
-The LoonAI Gateway uses team-scoped API keys.
+The AI Gateway uses team-scoped API keys.
 
 ## Why Team-Scoped Keys Matter
 
@@ -32,7 +32,7 @@ from openai import OpenAI
 
 client = OpenAI(
     api_key="YOUR_GATEWAY_KEY",
-    base_url="https://gateway.ai.umn.edu"
+    base_url="https://public.aigateway.umn.edu"
 )
 
 response = client.chat.completions.create(
