@@ -6,8 +6,8 @@
   "description": "LoonAI and LoonAI Gateway documentation site",
   "scripts": {
     "dev": "vitepress dev docs --host 0.0.0.0 --port 5173",
-    "build": "vitepress build docs",
-    "check": "vitepress build docs --strict",
+    "build": "cp -r images/. docs/public/images/ && vitepress build docs",
+    "check": "cp -r images/. docs/public/images/ && vitepress build docs --strict",
     "preview": "vitepress preview docs --host 0.0.0.0 --port 4173"
   },
   "devDependencies": {
