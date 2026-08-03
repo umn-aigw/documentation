@@ -34,7 +34,7 @@ export default defineConfig({
     sidebar: {
       "/gateway/": [
         {
-          text: "LoonAI Gateway",
+          text: "AI Gateway",
           items: [
             { text: "Overview", link: "/gateway/" },
             { text: "Getting Started", link: "/gateway/getting-started" },

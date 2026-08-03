@@ -1,6 +1,6 @@
 # AI Gateway Documentation
 
-This repository hosts the documentation site for LoonAI, the umbrella for University of Minnesota-administered AI tools.
+This repository hosts the documentation site for AI Gateway, the umbrella for University of Minnesota-administered AI tools.
 
 AI Gateway documentation is now maintained as a dedicated subsection of this site.
 
