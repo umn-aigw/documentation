@@ -30,7 +30,7 @@ By default, you'll be added as a "user" within your team. You'll be able to crea
 
 ## Network Access
 
-The gateway is available on campus or when connected through UMN VPN. Visit [gateway.aigateway.umn.edu/ui](https://gateway.aigateway.umn.edu/ui) to get started
+The gateway is available on campus or when connected through UMN VPN. Visit [aigateway.umn.edu/ui](https://aigateway.umn.edu/ui) to get started
 
 If this requirement limits your workflow, contact the service team to discuss options. Feedback on this policy is still being collected.
 
