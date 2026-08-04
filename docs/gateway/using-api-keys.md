@@ -32,7 +32,7 @@ from openai import OpenAI
 
 client = OpenAI(
     api_key="YOUR_GATEWAY_KEY",
-    base_url="https://public.aigateway.umn.edu"
+    base_url="https://api.aigateway.umn.edu"
 )
 
 response = client.chat.completions.create(
