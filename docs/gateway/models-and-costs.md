@@ -53,8 +53,8 @@ Below you'll find a table of our currently available models. We've launched with
 | Model Name | Capabilities | Approved Data Classification | Input Cost (per 1M tokens) | Output Cost (per 1M tokens) |
 | --- | --- | --- | --- | --- |
 | azure-tts | audio_speech | Public, Private-Restricted | N/A | N/A |
-| deepseek-v4-flash | chat, Function Calling | Public, Private-Restricted | $0.1400 | $0.2800 |
-| deepseek-v4-pro | chat, Function Calling | Public, Private-Restricted | $0.4350 | $0.8700 |
+| deepseek-v4-flash | chat, Function Calling | Public, Private-Restricted | $0.1900 | $0.5100 |
+| deepseek-v4-pro | chat, Function Calling | Public, Private-Restricted | $1.74 | $3.48 |
 | gemini-3-pro-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted | $2.00 | $12.00 |
 | gemini-3.1-flash-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted | $0.5000 | $3.00 |
 | gemini-3.1-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.2500 | $1.50 |
@@ -77,9 +77,9 @@ Below you'll find a table of our currently available models. We've launched with
 | llama4-scout-17b-instruct-v1:0 | chat, Function Calling | Public, Private-Restricted | $0.1700 | $0.6600 |
 | mantle-gpt-5.4 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $2.75 | $16.50 |
 | mantle-gpt-5.5 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $5.50 | $33.00 |
-| mantle-gpt-5.6-luna | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $0.2200 | $1.32 |
+| mantle-gpt-5.6-luna | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $1.10 | $6.60 |
 | mantle-gpt-5.6-sol | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $5.50 | $33.00 |
-| mantle-gpt-5.6-terra | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $2.20 | $13.20 |
+| mantle-gpt-5.6-terra | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $2.75 | $16.50 |
 | mistral-medium-3-5 | chat | Public, Private-Restricted | $1.50 | $7.50 |
 | mistral-ocr-4-0 | ocr | Public, Private-Restricted | N/A | N/A |
 | text-embedding-3-large | embedding | Public, Private-Restricted | $0.1300 | N/A |
