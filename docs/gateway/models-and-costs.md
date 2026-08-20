@@ -57,9 +57,7 @@ Below you'll find a table of our currently available models. We've launched with
 | deepseek-v4-pro | chat, Function Calling | Public, Private-Restricted | $1.74 | $3.48 |
 | gemini-3-pro-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted | $2.00 | $12.00 |
 | gemini-3.1-flash-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted | $0.5000 | $3.00 |
-| gemini-3.1-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.2500 | $1.50 |
 | gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $12.00 |
-| gemini-3.5-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $1.50 | $9.00 |
 | gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.3000 | $2.50 |
 | gemini-3.6-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.7500 | $3.75 |
 | gemini-3.7-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.7500 | $3.75 |
