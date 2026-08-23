@@ -67,7 +67,7 @@ Below you'll find a table of our currently available models. We've launched with
 | gpt-5.4-pro | responses, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $30.00 | $180.00 |
 | gpt-5.5 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $5.00 | $30.00 |
 | gpt-5.6-luna | chat | Public, Private-Restricted | $0.2000 | $1.20 |
-| gpt-5.6-sol | chat | Public, Private-Restricted | $5.00 | $30.00 |
+| gpt-5.6-sol | chat | Public, Private-Restricted | $4.00 | $20.00 |
 | gpt-5.6-terra | chat | Public, Private-Restricted | $2.00 | $12.00 |
 | gpt-image-2 | image_generation | Public, Private-Restricted | $5.00 | $10.00 |
 | kimi-k2.6 | chat, Vision, Reasoning, Function Calling | Public, Private-Restricted | $0.9500 | $4.00 |
