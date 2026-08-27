@@ -55,8 +55,8 @@ Below you'll find a table of our currently available models. We've launched with
 | azure-tts | audio_speech | Public, Private-Restricted | N/A | N/A |
 | deepseek-v4-flash | chat, Function Calling | Public, Private-Restricted | $0.1900 | $0.5100 |
 | deepseek-v4-pro | chat, Function Calling | Public, Private-Restricted | $1.74 | $3.48 |
-| gemini-3-pro-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted | $2.00 | $12.00 |
-| gemini-3.1-flash-image-preview | image_generation, Vision, Web Search | Public, Private-Restricted | $0.5000 | $3.00 |
+| gemini-3-pro-image | image_generation, Vision, Web Search | Public, Private-Restricted | $2.00 | $12.00 |
+| gemini-3.1-flash-image | image_generation, Vision, Web Search | Public, Private-Restricted | $0.5000 | $3.00 |
 | gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $12.00 |
 | gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.3000 | $2.50 |
 | gemini-3.6-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.7500 | $3.75 |
