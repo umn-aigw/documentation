@@ -23,3 +23,5 @@ Gateway usage remains a strong option when you need direct API control, custom i
 LiteLLM publishes integration guides for AI tools and frameworks:
 
 - [LiteLLM AI tool integration docs](https://docs.litellm.ai/docs/ai_tools)
+
+For more information, contact the AI Gateway team. 
