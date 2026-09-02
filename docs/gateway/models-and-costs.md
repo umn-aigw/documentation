@@ -59,8 +59,8 @@ Below you'll find a table of our currently available models. We've launched with
 | gemini-3.1-flash-image | image_generation, Vision, Web Search | Public, Private-Restricted | $0.5000 | $3.00 |
 | gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $12.00 |
 | gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.3000 | $2.50 |
-| gemini-3.6-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.7500 | $3.75 |
 | gemini-3.7-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.7500 | $3.75 |
+| gemini-3.8-flash | chat | Public, Private-Restricted | N/A | N/A |
 | gpt-5.4 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $2.50 | $15.00 |
 | gpt-5.4-mini | chat | Public, Private-Restricted | $0.7500 | $4.50 |
 | gpt-5.4-nano | chat | Public, Private-Restricted | $0.2000 | $1.25 |
