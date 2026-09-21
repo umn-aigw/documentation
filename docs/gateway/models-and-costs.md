@@ -79,6 +79,7 @@ Below you'll find a table of our currently available models. We've launched with
 | mantle-gpt-5.6-luna | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $1.10 | $6.60 |
 | mantle-gpt-5.6-sol | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $5.50 | $33.00 |
 | mantle-gpt-5.6-terra | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $2.75 | $16.50 |
+| mantle-gpt-6-astra | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $11.00 | $55.00 |
 | mistral-medium-3-5 | chat | Public, Private-Restricted | $1.50 | $7.50 |
 | mistral-ocr-4-0 | ocr | Public, Private-Restricted | N/A | N/A |
 | text-embedding-3-large | embedding | Public, Private-Restricted | $0.1300 | N/A |
