@@ -68,7 +68,7 @@ Below you'll find a table of our currently available models. We've launched with
 | gpt-5.5 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $5.00 | $30.00 |
 | gpt-5.6-luna | chat | Public, Private-Restricted | $0.2000 | $1.20 |
 | gpt-5.6-sol | chat | Public, Private-Restricted | $4.00 | $20.00 |
-| gpt-5.6-terra | chat | Public, Private-Restricted | $2.00 | $12.00 |
+| gpt-5.6-terra | chat | Public, Private-Restricted | $2.20 | $13.20 |
 | gpt-6-astra | chat | Public, Private-Restricted | $10.00 | $50.00 |
 | gpt-image-2 | image_generation | Public, Private-Restricted | $5.00 | $10.00 |
 | kimi-k2.6 | chat, Vision, Reasoning, Function Calling | Public, Private-Restricted | $0.9500 | $4.00 |
@@ -78,7 +78,6 @@ Below you'll find a table of our currently available models. We've launched with
 | mantle-gpt-5.5 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $5.50 | $33.00 |
 | mantle-gpt-5.6-luna | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $1.10 | $6.60 |
 | mantle-gpt-5.6-sol | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $5.50 | $33.00 |
-| mantle-gpt-5.6-terra | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $2.75 | $16.50 |
 | mantle-gpt-6-astra | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $11.00 | $55.00 |
 | mistral-medium-3-5 | chat | Public, Private-Restricted | $1.50 | $7.50 |
 | mistral-ocr-4-0 | ocr | Public, Private-Restricted | N/A | N/A |
