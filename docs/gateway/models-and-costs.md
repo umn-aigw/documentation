@@ -69,6 +69,7 @@ Below you'll find a table of our currently available models. We've launched with
 | gpt-5.6-luna | chat | Public, Private-Restricted | $0.2000 | $1.20 |
 | gpt-5.6-sol | chat | Public, Private-Restricted | $4.00 | $20.00 |
 | gpt-5.6-terra | chat | Public, Private-Restricted | $2.20 | $13.20 |
+| gpt-5.6-terra-decommed | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | N/A | N/A |
 | gpt-6-astra | chat | Public, Private-Restricted | $10.00 | $50.00 |
 | gpt-6-luna | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $0.1000 | $0.5000 |
 | gpt-6-sol | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $10.00 |
