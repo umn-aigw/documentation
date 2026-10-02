@@ -7,7 +7,7 @@ import { withBase } from 'vitepress'
     <h1>AI Gateway Documentation</h1>
     <p>
         The AI gateway is the first project deployed under the umbrella for University of Minnesota-administered tools
-        powering AI for research, teaching, learning, and administration. It's supported by a Virtual Team of technologists
+        powering AI for research, teaching, learning, and administration. The AI Gateway is supported by a Virtual Team of technologists
         from across the University.
     </p>
     <p>
