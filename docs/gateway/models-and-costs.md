@@ -52,42 +52,42 @@ Below you'll find a table of our currently available models. We've launched with
 
 | Model Name | Capabilities | Approved Data Classification | Input Cost (per 1M tokens) | Output Cost (per 1M tokens) |
 | --- | --- | --- | --- | --- |
-| azure-tts | audio_speech | Public, Private-Restricted | N/A | N/A |
-| deepseek-v4-flash | chat, Function Calling | Public, Private-Restricted | $0.3000 | $1.20 |
-| deepseek-v4-pro | chat, Function Calling | Public, Private-Restricted | $1.32 | $3.96 |
-| gemini-3-pro-image | image_generation, Vision, Web Search | Public, Private-Restricted | $2.00 | $12.00 |
-| gemini-3.1-flash-image | image_generation, Vision, Web Search | Public, Private-Restricted | $0.5000 | $3.00 |
-| gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $12.00 |
-| gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.3000 | $2.50 |
-| gemini-3.7-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $0.7500 | $3.75 |
-| gemini-3.8-flash | chat | Public, Private-Restricted | $0.7500 | $3.75 |
-| gpt-5.4 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $2.50 | $15.00 |
-| gpt-5.4-mini | chat | Public, Private-Restricted | $0.7500 | $4.50 |
-| gpt-5.4-nano | chat | Public, Private-Restricted | $0.2000 | $1.25 |
-| gpt-5.4-pro | responses, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $30.00 | $180.00 |
-| gpt-5.5 | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $5.00 | $30.00 |
-| gpt-5.6-luna | chat | Public, Private-Restricted | $0.2000 | $1.20 |
-| gpt-5.6-sol | chat | Public, Private-Restricted | $4.00 | $20.00 |
-| gpt-5.6-terra | chat | Public, Private-Restricted | $2.20 | $13.20 |
-| gpt-6-astra | chat | Public, Private-Restricted | $10.00 | $50.00 |
-| gpt-6-luna | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $0.1000 | $0.5000 |
-| gpt-6-sol | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $10.00 |
-| gpt-6.1-sol | chat, Vision, Web Search, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $10.00 |
-| gpt-image-2 | image_generation | Public, Private-Restricted | $5.00 | N/A |
-| kimi-k2.6 | chat, Vision, Reasoning, Function Calling | Public, Private-Restricted | $0.9500 | $4.00 |
-| llama4-maverick-17b-instruct-v1:0 | chat, Function Calling | Public, Private-Restricted | $0.2400 | $0.9700 |
-| llama4-scout-17b-instruct-v1:0 | chat, Function Calling | Public, Private-Restricted | $0.1700 | $0.6600 |
-| mantle-gpt-5.4 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $2.75 | $16.50 |
-| mantle-gpt-5.5 | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $5.50 | $33.00 |
-| mantle-gpt-5.6-luna | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $0.2200 | $1.32 |
-| mantle-gpt-5.6-sol | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $4.40 | $22.00 |
-| mantle-gpt-6-astra | responses, Vision, Reasoning, Function Calling | Public, Private-Restricted | $11.00 | $55.00 |
-| mistral-medium-3-5 | chat | Public, Private-Restricted | $1.50 | $7.50 |
-| mistral-ocr-4-0 | ocr | Public, Private-Restricted | N/A | N/A |
-| text-embedding-3-large | embedding | Public, Private-Restricted | $0.1300 | N/A |
-| zai.glm-4.7 | chat, Reasoning, Function Calling | Public, Private-Restricted | $0.6000 | $2.20 |
-| zai.glm-4.7-flash | chat, Reasoning, Function Calling | Public, Private-Restricted | $0.0700 | $0.4000 |
-| zai.glm-5 | chat, Reasoning, Function Calling | Public, Private-Restricted | $1.00 | $3.20 |
+| azure-tts | audio_speech | Public | N/A | N/A |
+| deepseek-v4-flash | chat, Function Calling | Public | $0.3000 | $1.20 |
+| deepseek-v4-pro | chat, Function Calling | Public | $1.32 | $3.96 |
+| gemini-3-pro-image | image_generation, Vision, Web Search | Public | $2.00 | $12.00 |
+| gemini-3.1-flash-image | image_generation, Vision, Web Search | Public | $0.5000 | $3.00 |
+| gemini-3.1-pro-preview | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $2.00 | $12.00 |
+| gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $0.3000 | $2.50 |
+| gemini-3.7-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $0.7500 | $3.75 |
+| gemini-3.8-flash | chat | Public | $0.7500 | $3.75 |
+| gpt-5.4 | chat, Vision, Web Search, Reasoning, Function Calling | Public | $2.50 | $15.00 |
+| gpt-5.4-mini | chat | Public | $0.7500 | $4.50 |
+| gpt-5.4-nano | chat | Public | $0.2000 | $1.25 |
+| gpt-5.4-pro | responses, Vision, Web Search, Reasoning, Function Calling | Public | $30.00 | $180.00 |
+| gpt-5.5 | chat, Vision, Web Search, Reasoning, Function Calling | Public | $5.00 | $30.00 |
+| gpt-5.6-luna | chat | Public | $0.2000 | $1.20 |
+| gpt-5.6-sol | chat | Public | $4.00 | $20.00 |
+| gpt-5.6-terra | chat | Public | $2.20 | $13.20 |
+| gpt-6-astra | chat | Public | $10.00 | $50.00 |
+| gpt-6-luna | chat, Vision, Web Search, Reasoning, Function Calling | Public | $0.1000 | $0.5000 |
+| gpt-6-sol | chat, Vision, Web Search, Reasoning, Function Calling | Public | $2.00 | $10.00 |
+| gpt-6.1-sol | chat, Vision, Web Search, Reasoning, Function Calling | Public | $2.00 | $10.00 |
+| gpt-image-2 | image_generation | Public | $5.00 | N/A |
+| kimi-k2.6 | chat, Vision, Reasoning, Function Calling | Public | $0.9500 | $4.00 |
+| llama4-maverick-17b-instruct-v1:0 | chat, Function Calling | Public | $0.2400 | $0.9700 |
+| llama4-scout-17b-instruct-v1:0 | chat, Function Calling | Public | $0.1700 | $0.6600 |
+| mantle-gpt-5.4 | responses, Vision, Reasoning, Function Calling | Public | $2.75 | $16.50 |
+| mantle-gpt-5.5 | responses, Vision, Reasoning, Function Calling | Public | $5.50 | $33.00 |
+| mantle-gpt-5.6-luna | responses, Vision, Reasoning, Function Calling | Public | $0.2200 | $1.32 |
+| mantle-gpt-5.6-sol | responses, Vision, Reasoning, Function Calling | Public | $4.40 | $22.00 |
+| mantle-gpt-6-astra | responses, Vision, Reasoning, Function Calling | Public | $11.00 | $55.00 |
+| mistral-medium-3-5 | chat | Public | $1.50 | $7.50 |
+| mistral-ocr-4-0 | ocr | Public | N/A | N/A |
+| text-embedding-3-large | embedding | Public | $0.1300 | N/A |
+| zai.glm-4.7 | chat, Reasoning, Function Calling | Public | $0.6000 | $2.20 |
+| zai.glm-4.7-flash | chat, Reasoning, Function Calling | Public | $0.0700 | $0.4000 |
+| zai.glm-5 | chat, Reasoning, Function Calling | Public | $1.00 | $3.20 |
 
 ::: info A note on Anthropic models
 Adding support for Anthropic models is the number one priority for the AI Gateway team, and university IT leadership. We are actively working with Anthropic to get their models available through the gateway. We will provide updates on progress and availability as soon as we have them.
