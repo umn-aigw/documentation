@@ -61,7 +61,7 @@ Below you'll find a table of our currently available models. We've launched with
 | gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $0.3000 | $2.50 |
 | gemini-3.7-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $0.7500 | $3.75 |
 | gemini-3.8-flash | chat | Public | $0.7500 | $3.75 |
-| gemini-4-argon | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $10.00 |
+| gemini-4-argon | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $2.00 | $10.00 |
 | gpt-5.4 | chat, Vision, Web Search, Reasoning, Function Calling | Public | $2.50 | $15.00 |
 | gpt-5.4-mini | chat | Public | $0.7500 | $4.50 |
 | gpt-5.4-nano | chat | Public | $0.2000 | $1.25 |
@@ -83,7 +83,7 @@ Below you'll find a table of our currently available models. We've launched with
 | mantle-gpt-5.6-luna | responses, Vision, Reasoning, Function Calling | Public | $0.2200 | $1.32 |
 | mantle-gpt-5.6-sol | responses, Vision, Reasoning, Function Calling | Public | $4.40 | $22.00 |
 | mantle-gpt-6-astra | responses, Vision, Reasoning, Function Calling | Public | $11.00 | $55.00 |
-| Microsoft-Decision-1 | chat | Public, Private-Restricted | $0.0420 | N/A |
+| Microsoft-Decision-1 | chat | Public | $0.0420 | N/A |
 | mistral-medium-3-5 | chat | Public | $1.50 | $7.50 |
 | mistral-ocr-4-0 | ocr | Public | N/A | N/A |
 | text-embedding-3-large | embedding | Public | $0.1300 | N/A |
