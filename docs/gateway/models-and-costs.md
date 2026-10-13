@@ -61,6 +61,7 @@ Below you'll find a table of our currently available models. We've launched with
 | gemini-3.5-flash-lite | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $0.3000 | $2.50 |
 | gemini-3.7-flash | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public | $0.7500 | $3.75 |
 | gemini-3.8-flash | chat | Public | $0.7500 | $3.75 |
+| gemini-4-argon | chat, Vision, Web Search, Url Context, Reasoning, Function Calling | Public, Private-Restricted | $2.00 | $10.00 |
 | gpt-5.4 | chat, Vision, Web Search, Reasoning, Function Calling | Public | $2.50 | $15.00 |
 | gpt-5.4-mini | chat | Public | $0.7500 | $4.50 |
 | gpt-5.4-nano | chat | Public | $0.2000 | $1.25 |
