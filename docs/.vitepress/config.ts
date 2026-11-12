@@ -28,15 +28,14 @@ export default defineConfig({
     siteTitle: "AI Gateway Docs",
     nav: [
       { text: "Home", link: "/" },
-      { text: "AI Gateway", link: "/gateway/" },
       { text: "AI Hub", link: "https://ai.umn.edu" }
     ],
     sidebar: {
-      "/gateway/": [
+      "/": [
         {
           text: "AI Gateway",
           items: [
-            { text: "Overview", link: "/gateway/" },
+            { text: "Overview", link: "/" },
             { text: "Getting Started", link: "/gateway/getting-started" },
             { text: "API Keys and Access", link: "/gateway/using-api-keys" },
             { text: "Models, Pricing, and Limits", link: "/gateway/models-and-costs" },

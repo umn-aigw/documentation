@@ -1,26 +1,34 @@
-<script setup>
-import { withBase } from 'vitepress'
-</script>
-
-<div class="aigateway-hero">
-    <img :src="withBase('/images/logo.png')" alt="AI Gateway logo" class="aigateway-logo" />
-    <h1>AI Gateway Documentation</h1>
-    <p>
-        The AI gateway is the first project deployed under the umbrella for University of Minnesota-administered tools
-        powering AI for research, teaching, learning, and administration. The AI Gateway is supported by a Virtual Team of technologists
-        from across the University.
-    </p>
-    <p>
-        For more information about university AI initiatives, visit the
-        <a href="https://ai.umn.edu" target="_blank" rel="noreferrer">AI Hub at ai.umn.edu</a>.
-    </p>
+<div class="gateway-hero">
+	<h1>AI Gateway</h1>
+	<p>
+		Managed access to leading AI models for University of Minnesota researchers, faculty, staff, and students through a unified API.
+	</p>
 </div>
 
-## Current Documentation
+## What You Get
 
-The first project currently documented in depth is the AI Gateway.
+- OpenAI-compatible endpoint for multi-model access
+- Team-based API keys and budget controls
+- Chargeback billing with usage transparency
+- Fast onboarding for individuals, labs, and classes
 
-<div class="gateway-callout">
-    Explore the Gateway docs in the dedicated section:
-    <a :href="withBase('/gateway/')">AI Gateway Documentation</a>
-</div>
+
+## Platform Overview
+
+The University's AI Gateway is powered by [LiteLLM](https://www.litellm.ai), which routes requests to multiple model providers behind a consistent API layer.
+
+This design gives teams one integration pattern while preserving flexibility to choose models based on price, speed, and capabilities.
+
+## Documentation Map
+
+- [Getting Started](/gateway/getting-started.md): onboarding and account setup
+- [API Keys and Access](/gateway/using-api-keys.md): key creation and usage patterns
+- [Models, Pricing, and Limits](/gateway/models-and-costs.md): selecting models and controlling spend
+- [Coding Tools Integration](/gateway/coding-tools.md): setup in coding assistants and SDKs
+- [Courses](/gateway/courses.md): course-based access for classes and students
+- [Privacy and Data Collection](/gateway/privacy.md): data classifications and retention practices
+- [Support and Roadmap](/gateway/support-and-roadmap.md): support channels and near-term plans
+- [Change Log](/gateway/changelog.md): notable platform and model updates
+
+> [!WARNING]
+> Keep API keys private. Do not commit keys to Git repositories or share them in chats, tickets, or screenshots.
