@@ -2,7 +2,7 @@
 
 This repository hosts the documentation site for AI Gateway, the umbrella for University of Minnesota-administered AI tools.
 
-AI Gateway documentation is now maintained as a dedicated subsection of this site.
+The AI Gateway overview is the site home page (`docs/index.md`). The previous `/gateway/` overview URL remains available, and detailed documentation lives under `docs/gateway/`.
 
 ## Documentation Stack
 
