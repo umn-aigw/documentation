@@ -26,6 +26,7 @@ const models = [
   ["Google", "gemini-3.8-live", "realtime, Audio Input, Audio Output", "Public", "$0.7500", "$4.50"],
   ["Google", "gemini-4-argon", "chat, Vision, Web Search, Url Context, Reasoning, Function Calling", "Public", "$2.00", "$10.00"],
   ["Google", "gemini-4-carbon", "chat, Vision, Web Search, Url Context, Reasoning, Function Calling", "Public, Private-Restricted", "$2.00", "$10.00"],
+  ["Google", "gemini-4-hydrogen", "chat, Vision, Web Search, Url Context, Reasoning, Function Calling", "Public, Private-Restricted", "$1.50", "$7.50"],
   ["Google", "gemini-live-2.5-flash-native-audio", "realtime, Audio Input, Audio Output", "Public", "$0.5000", "$2.00"],
   ["Google", "gemini-robotics-er-2-preview", "chat, Vision, Web Search, Url Context, Reasoning, Function Calling", "Public, Private-Restricted", "$1.00", "$5.00"],
   ["OpenAI", "gpt-5.4", "chat, Vision, Web Search, Reasoning, Function Calling", "Public", "$2.50", "$15.00"],
