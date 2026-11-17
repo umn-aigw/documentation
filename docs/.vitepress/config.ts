@@ -28,6 +28,12 @@ export default defineConfig({
     siteTitle: "AI Gateway Docs",
     nav: [
       { text: "Home", link: "/" },
+      { text: "Documentation", link: "/gateway/getting-started" },
+      {
+        text: "Request Access",
+        link: "https://tdx.umn.edu/TDClient/31/Portal/Requests/Service/710/AI-Gateway-Request/Request"
+      },
+      { text: "Gateway UI", link: "https://api.aigateway.umn.edu/ui/" },  
       { text: "AI Hub", link: "https://ai.umn.edu" }
     ],
     sidebar: {
