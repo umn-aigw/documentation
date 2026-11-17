@@ -25,7 +25,7 @@ export default defineConfig({
   themeConfig: {
     aside: false,
     logo: "/images/logo.png",
-    siteTitle: "AI Gateway Docs",
+    siteTitle: "AI API Gateway",
     nav: [
       { text: "Home", link: "/" },
       { text: "Documentation", link: "/gateway/getting-started" },
