@@ -5,7 +5,7 @@ const REPO_URL = "https://github.com/umn-aigw/documentation";
 export default defineConfig({
   lang: "en-US",
   title: "University of Minnesota AI Gateway Documentation",
-  description: "Official docs for the AI Gateway tools at the University of Minnesota.",
+  description: "AI Gateway platform at the University of Minnesota.",
   base: "/",
   cleanUrls: true,
   vite: {
@@ -25,7 +25,7 @@ export default defineConfig({
   themeConfig: {
     aside: false,
     logo: "/images/logo.png",
-    siteTitle: "AI API Gateway",
+    siteTitle: "AI Gateway",
     nav: [
       { text: "Home", link: "/" },
       { text: "Documentation", link: "/gateway/getting-started" },
