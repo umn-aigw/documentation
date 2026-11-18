@@ -18,9 +18,9 @@ The team may ask you to re-run your code with additional logging enabled.
 
 ## Current Scope
 
-Initial launch priorities focus on reliable model access, budget controls, and core API workflows.
+Current focus is on reliable model access, budget controls, and core API workflows.
 
-Advanced LiteLLM features (agents, skills, MCP integrations, and related orchestration capabilities) are not yet available.
+The Gateway provides model access through an API; it does not host or manage LiteLLM MCP servers or vector databases. You can still use MCP servers or RAG search in your own application or harness and send model requests through the Gateway. Advanced LiteLLM-specific features (agents, skills, MCP integrations, and related orchestration capabilities) are not yet available.
 
 ## Roadmap Themes
 
@@ -30,17 +30,13 @@ Advanced LiteLLM features (agents, skills, MCP integrations, and related orchest
 - Explore agent/skill/MCP management
 - Better understand performance and usage patterns
 
-### AI Gateway 1.0 notes
-
-As the AI Gateway launches to the University of Minnesota community, there are a lot of "unknowns" we're looking to resolve. We want to understand what real world needs are like around performance, model availability, rate limits, budget controls, and other operational concerns. We also want to understand what advanced capabilities are most useful to the community, and how we can best support those needs - agents, mcps, skills, etc. 
-
-Our goal for 1.0 was to provide a stable, cost-managed way to access a breadth of models, and we think we've provided that. Now we're going to be focused on evolving this platform to meet a broader set of needs. 
-
-Please reach out to the support team with your feedback, and we'll do our best to incorporate it into our roadmap. [aigateway@umn.edu](mailto:aigateway@umn.edu)
-
 
 ## Getting Involved
 
 - Share documentation feedback
 - Propose feature priorities for your unit
 - Request collaborative pilots for advanced capabilities
+
+We want to understand what real world needs are like around performance, model availability, rate limits, budget controls, and other operational concerns. We also want to understand what advanced capabilities are most useful to the community, and how we can best support those needs - agents, mcps, skills, etc. 
+
+Please reach out to the support team with your feedback, and we'll do our best to incorporate it into our roadmap. [aigateway@umn.edu](mailto:aigateway@umn.edu)
