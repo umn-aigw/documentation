@@ -1,6 +1,10 @@
 # Change Log
 Both the AI Gateway and the LiteLLM project are actively evolving. We'll aim to capture major changes here. If you've got questions, please reach out to the [AI Gateway support team](mailto:aigateway@umn.edu).
 
+## Private-Restricted Data Approved: (2026-11-17)
+The AI Gateway has been officially approved by the Security Architecture Review Board (SARB) to process Private-Restricted data workloads.
+##### Note: Protected Health Information (PHI/HIPAA) and Private Highly Restricted data remain strictly prohibited at this time. 
+
 ## Modifying Branding To Reflect a Platform-Neutral Name (2026-07-31)
 Informed by University Marketing and Communications, this change provides a clearer, platform-neutral name for the service as the AI Gateway moves beyond its initial pilot identity. The Gateway is intended to provide centralized, secure, and governed access to AI models across the University, so the new address better reflects the service's broader purpose.
 
