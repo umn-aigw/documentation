@@ -12,8 +12,6 @@ const columns = [
 
 const models = [
   ["Microsoft", "azure-tts", "audio_speech", "Public", "N/A", "N/A"],
-  ["DeepSeek", "deepseek-v4-flash", "chat, Function Calling", "Public", "$0.3000", "$1.20"],
-  ["DeepSeek", "deepseek-v4-pro", "chat, Function Calling", "Public", "$1.32", "$3.96"],
   ["Google", "gemini-3-pro-image", "image_generation, Vision, Web Search", "Public", "$2.00", "$12.00"],
   ["Google", "gemini-3.1-flash-image", "image_generation, Vision, Web Search", "Public", "$0.5000", "$3.00"],
   ["Google", "gemini-3.1-pro-preview", "chat, Vision, Web Search, Url Context, Reasoning, Function Calling", "Public", "$2.00", "$12.00"],
